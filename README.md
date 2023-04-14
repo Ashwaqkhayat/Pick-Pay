@@ -1,0 +1,8 @@
+## Pick&Pay
+CPCS361 Software Engineering Project  - Smart Supermarket System
+
+## Introduction
+Markets provide the most important needs of people in our time. Perhaps there are several markets in one neighborhood to serve the largest number of customers, to avoid overcrowding and the lack of products from the market. Since the customer may come to buy a specific thing and end up buying products that he does not need. So, what if we turned this process into a smarter and more efficient process? Through digitization, today we can create an integrated system to create an exceptional experience and make the task of shopping more practical and less consuming.
+
+## Project Description
+Our project's concept revolves around using technology industries to serve the community. Supermarkets are one of the most visited commercial centres in people's daily lives, where most of their needs like food, drinks, or even personal care products. The idea of our project is based on developing and facilitating the shopping process for customers, in addition to solving some problems that customers were facing in the market. The most common problem is the wasted time for customers who may face some difficulties while shopping. For example, the time spent walking from section to section to search for a specific product or brand, also the consuming time in the cashier line where each item must be accounted for one by one. According to this, we have made a supermarket system that enables robots to serve customers by collecting all their needs and purchases. The customer must select all the products he wants through the machine, and then the robot will collect his order and deliver it to him.
